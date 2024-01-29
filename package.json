@@ -35,7 +35,7 @@
     "@architect/hydrate": "3.5.1",
     "@architect/inventory": "~3.6.3",
     "@architect/logs": "4.1.0",
-    "@architect/sandbox": "https://github.com/courey/sandbox#courey/testing",
+    "@architect/sandbox": "https://github.com/courey/sandbox#courey/fix_exit_signal",
     "@architect/utils": "~3.1.9",
     "@aws-sdk/client-apigatewaymanagementapi": "^3.362.0",
     "@aws-sdk/client-dynamodb": "^3.362.0",
